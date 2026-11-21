@@ -36,7 +36,8 @@ python code/Task_02_numpy_arrays.py
 ## Group members and contributions
 
 - Wallcot Isack — BSCCS/2025/48040
-- Keith Kyule — BSCCS/2025/49920 
+- Keith Kyule — BSCCS/2025/49920
+- John Omayo - BSCCS252616702 
 - Maxwell Munene — BSCCS/2025/51289
 - Elton Mutugi — BSCCS/2025/47559
 - Jorbat Collins — BSCCS/2025/53345
